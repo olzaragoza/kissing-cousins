@@ -1,6 +1,11 @@
 # VS Code
 .vscode
 
+# Visual Studio
+Debug
+*.suo
+*.VC.*
+
 # Compiled Object files
 *.slo
 *.lo
